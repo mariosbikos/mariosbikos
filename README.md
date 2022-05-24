@@ -2,7 +2,7 @@
 
 [Check out my website](https://mariosbikos.com/)
 
-I am Marios Bikos, currently a Senior Gameplay Engineer at Sharkmob(owned by Tencent), focused on multiplayer AAA games. 
+I am Marios Bikos, currently an Associate Lead Gameplay Engineer at Sharkmob(owned by Tencent), focused on multiplayer AAA games. 
 
 Before joining Sharkmob, I worked as a Developer Relation Engineer for HTC Vive, serving as a technical bridge between Vive Engineering and EMEA customers and VR developers. My role involved advocating the VIVE technology stack, enabling developers to build high-quality VR content. 
 
