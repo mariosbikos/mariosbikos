@@ -2,9 +2,9 @@
 
 [Check out my website](https://mariosbikos.com/)
 
-I am Marios Bikos, currently an Associate Lead Gameplay Engineer at Sharkmob(owned by Tencent), focused on multiplayer AAA games. 
+I am Marios Bikos. I joined Bytedance (Pico Team) in 2022 as an SDK Technical Engineer to support developers that build XR Games on Pico VR headsets.
 
-Before joining Sharkmob, I worked as a Developer Relation Engineer for HTC Vive, serving as a technical bridge between Vive Engineering and EMEA customers and VR developers. My role involved advocating the VIVE technology stack, enabling developers to build high-quality VR content. 
+Before that, I worked as an Associate Lead Gameplay Engineer at Sharkmob (owned by Tencent) on an undisclosed AAA multiplayer game built on Unreal Engine 5 and was a Developer Relation Engineer for HTC Vive, serving as a technical bridge between Vive Engineering and EMEA customers and VR developers. My role involved advocating the VIVE technology stack, enabling developers to developer high-quality VR content across VIVE hardware in all content verticals.
 
 Among my various professional roles, I have worked with Academy Award-winning creatives at Framestore building Virtual Production tools and interactive XR experiences for amazing clients such as VW China & Warner Bros. I have also worked as a Games Programmer on the commercially released racing game Forza Street at Electric Square, in collaboration with XBOX Studios.
 
